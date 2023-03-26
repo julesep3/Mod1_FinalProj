@@ -103,6 +103,14 @@ a {
 	align-content: space-evenly;
 }
 
+.about-content {
+	background-color: rgba(38, 23, 3, 0.6);
+	color: #fafafa;
+	width: 80vw;
+	/* display: flex; */
+	/* align-items: center; */
+}
+
 .footer-container {
 	text-align: center;
 	width: 30vw;
